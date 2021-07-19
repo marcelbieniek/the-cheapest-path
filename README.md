@@ -1,5 +1,6 @@
 # The Cheapest Path
-Implementation of the Shortest Path Faster Algorithm (SPFA) in C++.
+Implementation of the Shortest Path Faster Algorithm (SPFA) in C++.  
+SPFA is an improvement of the Bellman–Ford algorithm which computes single-source shortest paths in a weighted directed graph. The algorithm is particularly suitable for graphs that contain negative-weight edges.
 
 ### **Input**
 - **n**: the number of crossroads (non-negative integer),
