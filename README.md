@@ -13,7 +13,7 @@ Implementation of the Shortest Path Faster Algorithm (SPFA) in C++.
     - **b** is the index of a crossroad that is the destination of the path to be found (non-negative integer from range [0, n-1]).
 
 ### **Example**
-#### **Input**
+**Input**  
 5  
 4  
 0 1 1  
